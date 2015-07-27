@@ -1,0 +1,1 @@
+java -classpath ".\;target;target\dependency-jars" -jar target\crawler.jar http://www.mkyong.com/maven/maven-create-a-fat-jar-file-one-jar-example/ 0
